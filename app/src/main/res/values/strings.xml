@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="challenge_your_knowledge">Challenge Your Knowledge</string>
+    <string name="play_quiz_game_and_check_your_knowledge">"Play Quiz game and check your knowledge "</string>
+    <string name="start_now">Start Now</string>
+    <string name="explore_quizzes">Explore Quizzes</string>
+    <string name="view_all">View All</string>
+    <string name="level_of_quiz">Level of Quiz</string>
+    <string name="number_of_question">Number Of Question</string>
+    <string name="quiz_information">Quiz Information</string>
+</resources>
